@@ -1,0 +1,6 @@
+1.Javascript ?sas?n sayta funksionalliq qatmaq üçün istifad? olunur
+2.Letle tanimlanan d?y?r ancaq h?min blogun içind? d?y?rini d?yis? bil?rik blogdan çöld? d?yiss?k o h?min d?y?ri almayacaq varda is? ?ksin?di
+3.typeof operatorla veya  if-in icerisinde variable===undefiend olsa
+4.== beraberle deyerini === ise hem deyer hem de tipini yoxluyuru
+5.parseInt("stringname") veya Number ile
+6.var ad=5; let b=7; const="sema"
